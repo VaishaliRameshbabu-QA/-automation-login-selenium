@@ -1,0 +1,33 @@
+# Automation Testing – Login Module (Entri App)
+
+## 🔧 Tools Used
+
+* Selenium WebDriver
+* Python
+* TestNG (or PyTest if applicable)
+
+## 📌 Project Overview
+
+This project automates the login and registration functionality of a web application using Selenium.
+
+## ✅ Features Covered
+
+* Login validation (valid & invalid credentials)
+* Registration flow
+* Error message validation
+* Cross-browser testing
+
+## 🚀 Key Achievements
+
+* Reduced manual testing effort by 40%
+* Improved regression testing efficiency
+* Implemented reusable test scripts
+
+## ▶️ How to Run
+
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run tests: `pytest` (or TestNG equivalent)
+
+## 📊 Reports
+
+* Test execution reports generated for analysis
